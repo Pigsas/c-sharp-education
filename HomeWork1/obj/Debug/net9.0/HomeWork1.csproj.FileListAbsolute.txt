@@ -1,0 +1,14 @@
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/bin/Debug/net9.0/HomeWork1
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/bin/Debug/net9.0/HomeWork1.deps.json
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/bin/Debug/net9.0/HomeWork1.runtimeconfig.json
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/bin/Debug/net9.0/HomeWork1.dll
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/bin/Debug/net9.0/HomeWork1.pdb
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/obj/Debug/net9.0/HomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/obj/Debug/net9.0/HomeWork1.AssemblyInfoInputs.cache
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/obj/Debug/net9.0/HomeWork1.AssemblyInfo.cs
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/obj/Debug/net9.0/HomeWork1.csproj.CoreCompileInputs.cache
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/obj/Debug/net9.0/HomeWork1.dll
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/obj/Debug/net9.0/refint/HomeWork1.dll
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/obj/Debug/net9.0/HomeWork1.pdb
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/obj/Debug/net9.0/HomeWork1.genruntimeconfig.cache
+/mnt/DATA/C#Projects/HomeWork1/HomeWork1/obj/Debug/net9.0/ref/HomeWork1.dll
