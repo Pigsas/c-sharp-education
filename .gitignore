@@ -1,0 +1,58 @@
+# Compiled binary files
+*.dll
+*.exe
+*.so
+*.dylib
+*.pyc
+*.pyo
+
+# Debugging and build logs
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.DS_Store
+*.class
+
+# Output folders
+bin/
+obj/
+TestResults/
+out/
+
+# Visual Studio Code specific
+.vscode/
+.vscode-test/
+
+# ASP.NET specific
+_app_data/
+
+# Package directories
+packages/
+node_modules/
+
+# Publish output
+wwwroot/
+publish/
+
+# Docker files
+docker-compose.override.yml
+*.dockerignore
+
+# Secrets
+appsettings.*.json
+.env
+.env.*
+
+# JetBrains Rider
+.idea/
+*.idea/
+
+# Coverage
+*.coverage
+*.coveragexml
+.coverage/
